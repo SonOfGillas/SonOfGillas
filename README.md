@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SonOfGillas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![SonOfGillas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SonOfGillas)](https://github.com/anuraghazra/github-readme-stats)
