@@ -2,15 +2,15 @@
 <h3 align="center">Mobile & Web Developer | AI Master's Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riccardo-gardenghi-713304250">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Experience-5_Years-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Focus-Artificial_Intelligence-red?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Master's_Student-green?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riccardo-gardenghi-713304250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 ---
 
@@ -58,8 +58,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  // <img src="https://github-readme-stats.vercel.app/api?username=SonOfGillas&show_icons=true&theme=tokyonight&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=compact&theme=tokyonight&langs_count=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=compact&theme=tokyonight&langs_count=10" height="300em" />
 </p>
 
 ---
