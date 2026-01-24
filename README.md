@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
----
 
 ### 👨‍💻 About Me
 - 🎓 I have worked as a **Mobile and Web Developer for 5 years**.
