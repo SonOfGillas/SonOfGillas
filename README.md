@@ -14,9 +14,8 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 I have worked as a **Mobile and Web Developer for 5 years**.
-- 🤖 Currently, I am pursuing my **Master’s Degree in Artificial Intelligence**, pivoting my career toward the future of technology.
-- ⚡ I enjoy bridging the gap between robust mobile/web interfaces and intelligent backend systems.
+- 📱  I have worked as a **Mobile and Web Developer for 5 years**.
+- 🎓 Currently, I am pursuing my **Master’s Degree in Artificial Intelligence**, pivoting my career toward the future of technology.
 
 ---
 
