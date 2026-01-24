@@ -53,12 +53,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&langs_count=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonOfGillas&show_icons=true&theme=tokyonight&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=compact&theme=tokyonight&langs_count=10" height="180em" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SonOfGillas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
