@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=donut)](https://github.com/SonOfGillas)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SonOfGillas&theme=dark)](https://git.io/streak-stats)
 
 
 ---
