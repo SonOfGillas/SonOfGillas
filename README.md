@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=SonOfGillas&layout=donut&theme=radical" />
 </p>
 
 
