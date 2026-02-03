@@ -59,9 +59,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=donut&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/stats.js?username=SonOfGillas&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=compact&theme=vision-friendly-dark" />
+</p>
 
 
 ---
