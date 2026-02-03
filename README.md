@@ -59,8 +59,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonOfGillas&layout=compact&theme=tokyonight&langs_count=10" height="300em" />
+  <a><img src="https://nirzak-streak-stats.vercel.app?user=SonOfGillas&theme=nightowl&hide_border=true" width="50%" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SonOfGillas&theme=nightowl&exclude=markdown,mathematica,jsonl,lean" width="33%" />
 </p>
+
 
 ---
 
